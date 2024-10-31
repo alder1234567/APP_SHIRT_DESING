@@ -12,7 +12,7 @@ MARKETPLACE(ecomers)
 - figma
 - trello
 - github
-- dbdiagram-io
+- dbdiagram-io  https://dbdiagram.io/d/6723bcecb1b39dd8581a9ccc
 ## arquitectura
 - arquitectura mvc
 - arquitectura lipia
